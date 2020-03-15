@@ -4,16 +4,19 @@ Ruben Robles
 Introduction: For this Project we got data from OOI Website [2] that gave us information on hydrophone recordings. Our specific areas of interest were Oregon offshore and shelf cabled sites. With that data we were about to find the spectral levels of the rainy and windy times we found in our previous project two. 
 
 Part 1
-A)
-B) The range of magnitudes in the dataset is from 2.5 to 7.8. The average earthquake size is at a magnitude of 3.205.
-C) The majority of the Earthquakes in April of 2015 were around the south area of the Juan de Fuca Ridge. There were partially some on the northern side as well. What I found online and that I could relate to were the eruptions that happened under the pacific ocean. [1]
+A)When there was rain and wind I could see that there were more spikes in the dB level than when it was calm, just rain, or just wind. When there was just rain or just wind they seem to have had similar effects on the sound having frequent spikes in the sound level.
+
+B) According to the charts I plotted, rain seem to have the most effect as there were more and heavier spikes than when it was windy. There was alost more change in noise from the average.
+
+C) I would say the main reasons for obserbing both is the debth of both the sites. The oregon shelf cabled is at a depth of 80m while the offshore is at a depth of 580m
+
 Part 2
-D) You can see as shown in the plot that where I circled the majority of the earthquakes occur. There are plenty more divergent and transform plates on the map but those were two of the most noticeable ones as there was more activity. The only pattern I could see with the cluster of data is that the earthquakes are very common in the areas.
+1) The bandwith as shown by the spectograms does correlate with what is shown in the Wenz curve. As you can see in the plots correlating to the different noises, the relate to the curves. 
+
 Conclusion:
-I could see that there is a lot of plate movement and seismic activity around the Juan de Fuca Plate and Ridge. It was cool to see the actual data versus just hearing that the northwest is more prone to earthquakes but now I understand why. Also, we can see the information we learned in class as the magma is pushing to the core just west of us causing different shifts in the plates.
+It was intresting to see the differents in sound levels and also the change depending where the depth was. Also seeing the spectogram of different objects causing noise was awesome to see when thinking of what we learned in class.
 
 
 
-References [1] “Seafloor Sensors Record Possible Eruption of Underwater Volcano.” UW News, www.washington.edu/news/2015/04/30/seafloor-sensors-record-possible-eruption-of-underwater-volcano/.
-[2] https://oceanobservatories.org/instrument-series/hydbba/
-
+References
+https://oceanobservatories.org/instrument-series/hydbba/ [2]
